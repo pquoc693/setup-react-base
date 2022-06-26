@@ -1,0 +1,13 @@
+// import  '*/pages'
+{
+  "plugins": [
+    [
+      "module-resolver",
+      {
+        "alias": {
+          "~": "./src",
+        }
+      }
+    ]
+  ]
+}
